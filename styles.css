@@ -47,6 +47,11 @@ p {
     margin-top:50px;
 }
 
+ img {
+
+ height: 200px;
+
+ }
 .categoria videos img {
 opacity: 0.5;
 height: 200px;
@@ -55,7 +60,7 @@ height: 200px;
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 2px solid ;
+    border: 3px solid ;
 }
 
 .categoria h2 {
